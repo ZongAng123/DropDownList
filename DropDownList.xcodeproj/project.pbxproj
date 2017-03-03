@@ -15,6 +15,19 @@
 		744163F21E695F2600F96EA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744163F01E695F2600F96EA3 /* LaunchScreen.storyboard */; };
 		744163FD1E695F2600F96EA3 /* DropDownListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 744163FC1E695F2600F96EA3 /* DropDownListTests.m */; };
 		744164081E695F2600F96EA3 /* DropDownListUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 744164071E695F2600F96EA3 /* DropDownListUITests.m */; };
+		744164171E695F4B00F96EA3 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 744164161E695F4B00F96EA3 /* RootViewController.m */; };
+		7441641A1E695F8A00F96EA3 /* charModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 744164191E695F8A00F96EA3 /* charModel.m */; };
+		7441641D1E695FAB00F96EA3 /* CharTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7441641C1E695FAB00F96EA3 /* CharTableViewCell.m */; };
+		744164201E69602000F96EA3 /* list.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7441641F1E69602000F96EA3 /* list.plist */; };
+		7441642B1E69604100F96EA3 /* 001.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164221E69604100F96EA3 /* 001.png */; };
+		7441642C1E69604100F96EA3 /* 002.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164231E69604100F96EA3 /* 002.png */; };
+		7441642D1E69604100F96EA3 /* 003.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164241E69604100F96EA3 /* 003.png */; };
+		7441642E1E69604100F96EA3 /* 004.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164251E69604100F96EA3 /* 004.png */; };
+		7441642F1E69604100F96EA3 /* 005.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164261E69604100F96EA3 /* 005.png */; };
+		744164301E69604100F96EA3 /* 006.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164271E69604100F96EA3 /* 006.png */; };
+		744164311E69604100F96EA3 /* 007.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164281E69604100F96EA3 /* 007.png */; };
+		744164321E69604100F96EA3 /* 008.png in Resources */ = {isa = PBXBuildFile; fileRef = 744164291E69604100F96EA3 /* 008.png */; };
+		744164331E69604100F96EA3 /* pulldownList.png in Resources */ = {isa = PBXBuildFile; fileRef = 7441642A1E69604100F96EA3 /* pulldownList.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,22 @@
 		744164031E695F2600F96EA3 /* DropDownListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DropDownListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		744164071E695F2600F96EA3 /* DropDownListUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DropDownListUITests.m; sourceTree = "<group>"; };
 		744164091E695F2600F96EA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		744164151E695F4B00F96EA3 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		744164161E695F4B00F96EA3 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		744164181E695F8A00F96EA3 /* charModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = charModel.h; sourceTree = "<group>"; };
+		744164191E695F8A00F96EA3 /* charModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = charModel.m; sourceTree = "<group>"; };
+		7441641B1E695FAB00F96EA3 /* CharTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharTableViewCell.h; sourceTree = "<group>"; };
+		7441641C1E695FAB00F96EA3 /* CharTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharTableViewCell.m; sourceTree = "<group>"; };
+		7441641F1E69602000F96EA3 /* list.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = list.plist; sourceTree = "<group>"; };
+		744164221E69604100F96EA3 /* 001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 001.png; sourceTree = "<group>"; };
+		744164231E69604100F96EA3 /* 002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 002.png; sourceTree = "<group>"; };
+		744164241E69604100F96EA3 /* 003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 003.png; sourceTree = "<group>"; };
+		744164251E69604100F96EA3 /* 004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 004.png; sourceTree = "<group>"; };
+		744164261E69604100F96EA3 /* 005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 005.png; sourceTree = "<group>"; };
+		744164271E69604100F96EA3 /* 006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 006.png; sourceTree = "<group>"; };
+		744164281E69604100F96EA3 /* 007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 007.png; sourceTree = "<group>"; };
+		744164291E69604100F96EA3 /* 008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 008.png; sourceTree = "<group>"; };
+		7441642A1E69604100F96EA3 /* pulldownList.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pulldownList.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +130,16 @@
 		744163E11E695F2600F96EA3 /* DropDownList */ = {
 			isa = PBXGroup;
 			children = (
+				744164211E69602A00F96EA3 /* Images */,
+				7441641E1E69600C00F96EA3 /* File */,
 				744163E51E695F2600F96EA3 /* AppDelegate.h */,
 				744163E61E695F2600F96EA3 /* AppDelegate.m */,
+				744164151E695F4B00F96EA3 /* RootViewController.h */,
+				744164161E695F4B00F96EA3 /* RootViewController.m */,
+				744164181E695F8A00F96EA3 /* charModel.h */,
+				744164191E695F8A00F96EA3 /* charModel.m */,
+				7441641B1E695FAB00F96EA3 /* CharTableViewCell.h */,
+				7441641C1E695FAB00F96EA3 /* CharTableViewCell.m */,
 				744163E81E695F2600F96EA3 /* ViewController.h */,
 				744163E91E695F2600F96EA3 /* ViewController.m */,
 				744163EB1E695F2600F96EA3 /* Main.storyboard */,
@@ -138,6 +175,30 @@
 				744164091E695F2600F96EA3 /* Info.plist */,
 			);
 			path = DropDownListUITests;
+			sourceTree = "<group>";
+		};
+		7441641E1E69600C00F96EA3 /* File */ = {
+			isa = PBXGroup;
+			children = (
+				7441641F1E69602000F96EA3 /* list.plist */,
+			);
+			name = File;
+			sourceTree = "<group>";
+		};
+		744164211E69602A00F96EA3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				744164221E69604100F96EA3 /* 001.png */,
+				744164231E69604100F96EA3 /* 002.png */,
+				744164241E69604100F96EA3 /* 003.png */,
+				744164251E69604100F96EA3 /* 004.png */,
+				744164261E69604100F96EA3 /* 005.png */,
+				744164271E69604100F96EA3 /* 006.png */,
+				744164281E69604100F96EA3 /* 007.png */,
+				744164291E69604100F96EA3 /* 008.png */,
+				7441642A1E69604100F96EA3 /* pulldownList.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +304,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				744164311E69604100F96EA3 /* 007.png in Resources */,
+				7441642C1E69604100F96EA3 /* 002.png in Resources */,
+				7441642D1E69604100F96EA3 /* 003.png in Resources */,
+				744164201E69602000F96EA3 /* list.plist in Resources */,
+				7441642F1E69604100F96EA3 /* 005.png in Resources */,
+				744164301E69604100F96EA3 /* 006.png in Resources */,
+				744164331E69604100F96EA3 /* pulldownList.png in Resources */,
+				744164321E69604100F96EA3 /* 008.png in Resources */,
 				744163F21E695F2600F96EA3 /* LaunchScreen.storyboard in Resources */,
 				744163EF1E695F2600F96EA3 /* Assets.xcassets in Resources */,
 				744163ED1E695F2600F96EA3 /* Main.storyboard in Resources */,
+				7441642E1E69604100F96EA3 /* 004.png in Resources */,
+				7441642B1E69604100F96EA3 /* 001.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +343,10 @@
 			files = (
 				744163EA1E695F2600F96EA3 /* ViewController.m in Sources */,
 				744163E71E695F2600F96EA3 /* AppDelegate.m in Sources */,
+				7441641A1E695F8A00F96EA3 /* charModel.m in Sources */,
+				744164171E695F4B00F96EA3 /* RootViewController.m in Sources */,
 				744163E41E695F2600F96EA3 /* main.m in Sources */,
+				7441641D1E695FAB00F96EA3 /* CharTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
